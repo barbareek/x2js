@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<message>
- <command sender="Navigator" receiver="ContextMenuManager" sequence="5">
-  <show-context-menu context-object-name="menuInformation" menu-ui-file="../userinterface/CM1.ui" global-x-pos="72" global-y-pos="132"/>
- </command>
-</message>
+<abc>
+ <xyz >
+  <show/>
+ </xyz>
+</abc>
