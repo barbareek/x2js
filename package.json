@@ -1,0 +1,22 @@
+{
+  "name": "x2js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbareek/x2js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbareek/x2js/issues"
+  },
+  "homepage": "https://github.com/barbareek/x2js#readme",
+  "dependencies": {
+    "xml2js": "^0.4.15"
+  }
+}
