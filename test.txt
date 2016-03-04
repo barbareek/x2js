@@ -1,3 +1,7 @@
+{"command":[{"$":{"sender":"","receiver":"NavigatorDialog","sequence":"1"},"change-tree-content":[{"$":{"object-name":"treestabWidget.qt_tabwidget_stackedwidget.maintenanceTab.maintenanceTreeWidget"},"change-row-attributes":[{"$":{"index":"AFL_Subst_2.ES2_AFL.Cab_ES2_213.Cab_ES2_106_213.TED05L","visible":"false"}}]}]}]}
+
+
+
 <message> 
 <command sender="" receiver="NavigatorDialog" sequence="1">
     <change-tree-content object-name="treestabWidget.qt_tabwidget_stackedwidget.maintenanceTab.maintenanceTreeWidget">
